@@ -1,0 +1,1 @@
+v3.9.2: fixed a bug where the brain replayed the same embarrassing memory from 2014 every night at 3 a.m. instead of sleeping.
